@@ -5,14 +5,13 @@ ANSI/ASCII art viewer and text editor for macOS.
 ## Installation
 
 ```bash
-brew tap vigo/ascension
-brew install --cask ascension
+brew install --cask vigo/ascension/ascension
 ```
 
 ## Update
 
 ```bash
-brew upgrade --cask ascension
+brew upgrade --cask vigo/ascension/ascension
 ```
 
 ## Uninstall
